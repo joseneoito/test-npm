@@ -18,5 +18,8 @@
     "publishConfig": {
         "@joseneoito:registry": "https://npm.pkg.github.com"
     },
-    "homepage": "https://github.com/joseneoito/test-npm#readme"
+    "homepage": "https://github.com/joseneoito/test-npm#readme",
+    "dependencies": {
+        "pg": "^8.11.2"
+    }
 }
